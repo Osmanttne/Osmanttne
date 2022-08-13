@@ -6,6 +6,8 @@
 
 I am a junior developer and electrical engineer. I am the electrical designer of the TEDSA Drone Robotics Team
 
-![Green Brown Simple Quote Twitter Header](https://user-images.githubusercontent.com/85412764/180003539-fb1cbbeb-89b0-4097-a60d-1141a8ad362a.png)
+
+[Neon Green and Black Tech Zoom Virtual Background(1)](https://user-images.githubusercontent.com/85412764/184512075-49cffab5-65d7-454a-98b7-09c45ea0ab74.png)
+
 
 Visit https://tedsa-drone-robotics.github.io/ to discover our project 
