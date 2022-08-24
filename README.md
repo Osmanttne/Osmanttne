@@ -13,4 +13,4 @@ I am a junior developer and electrical engineer. I am the electrical designer of
 
 Visit https://tedsa-drone-robotics.github.io/ to discover our project 
 
-Frontend dev @ codeforgreensboro.org
+Frontend dev @ https://codeforgreensboro.org
