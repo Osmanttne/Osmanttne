@@ -9,8 +9,17 @@ I am a junior developer and electrical engineer. I am the electrical designer of
 
 
 
+
 ![Neon Green and Black Tech Zoom Virtual Background(1)](https://user-images.githubusercontent.com/85412764/184512100-8fc75d0e-404e-43d0-84fa-aa511c8af9a0.png)
+
+
 
 Visit https://tedsa-drone-robotics.github.io/ to discover our project 
 
+
+
 Frontend dev @ https://codeforgreensboro.org
+
+
+
+
