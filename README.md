@@ -9,7 +9,8 @@ I am a junior developer and electrical engineer.
 
 
 Visit https://tedsa-drone-robotics.github.io/ to discover our project 
-Also Visit the-dost-organization.github.io to discover our non profit 
+
+Co-founder of https://the-dost-organization.github.io/
 
 Frontend dev @ https://codeforgreensboro.org
 
