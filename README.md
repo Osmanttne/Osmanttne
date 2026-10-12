@@ -4,9 +4,8 @@
 
 <sub>
   <a href="https://github.com/Osmanttne">github</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/osman-taka">linkedin</a> &nbsp;·&nbsp;
   <a href="https://nsccatunc.org">nscc @ carolina</a> &nbsp;·&nbsp;
-  <a href="mailto:osmantak@unc.edu">email</a>
+  <a href="mailto:osmantalhataka@gmail.com">email</a>
 </sub>
 
 </div>
